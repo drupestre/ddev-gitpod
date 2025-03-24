@@ -1,0 +1,6 @@
+Remise à zéro du site : 
+ddev drush si -y --account-pass=admin --site-name='drupal_developer_training'
+
+Paramètrage du répertoire d'export :
+Modification dans settings.ddev.php ==> ../config/sync
+
